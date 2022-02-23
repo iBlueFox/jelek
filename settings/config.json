@@ -1,0 +1,16 @@
+{
+	"ownername":"Aprii",
+	"ownernumber":"6285951332948",
+	"botname":"Xucz Bot",
+	"dana": "0859-5133-2948",
+	"gopay": "0859-5133-2948",
+	"ovo": "0859-5133-2948",
+	"pulsa": "0859-5133-2948",
+	"thumbnail":"./settings/logo.jpg",
+	"background":"https://telegra.ph/file/d4c05638fa7886a1d8060.jpg",
+	"limit": {
+		"free":20,
+		"premium":1000
+	},
+	"session_name":"./session.json"
+}
