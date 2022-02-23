@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://github.com/zeeoneofc/Haruka/blob/v1/settings/haruka.jpg" alt="HARUKA BOT" width="200"/>
+<img src="https://github.com/zeeoneofc/Haruka/blob/v1/settings/haruka.jpg" alt="Xucz Bot" width="200"/>
 
 <p align="center">
     <a href="https://zeeoneofc.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Thank+for+using+haruka+bot+🤗"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Thank+for+using+Xucz+bot+🤗"
             alt="ZeeoneOfc"
         />
     </a>
